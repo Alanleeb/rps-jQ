@@ -1,0 +1,42 @@
+html {
+  border: 10px solid tomato;
+}
+.cats {
+  margin-bottom:350px;
+}
+.test {
+  height: 35px;
+  width: 100%;
+  background: tomato;
+}
+ .header, h1 {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(53,85,90);
+
+}
+
+li{
+  display: inline-block;
+  list-style: none;
+  margin-left: 68px;
+}
+
+button {
+  height:25px;
+  color: rgb(53,85,90);
+  font-size: 20px;
+  width:110px;
+  background: tomato;
+}
+.scoreKeep {
+  text-align: center;
+  font-size: 40px;
+  color: tomato;
+}
+
+.gameText {
+  text-align: center;
+  color: rgb(53,85,90);
+  font-size: 35px;
+}
